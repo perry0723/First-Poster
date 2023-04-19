@@ -1,0 +1,16 @@
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+}
+
+#image {
+    width: 100%;
+    border: 10px solid white;
+}
+
+h1 {
+    font-size: 3rem;
+}
